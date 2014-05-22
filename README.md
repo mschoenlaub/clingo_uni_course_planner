@@ -1,4 +1,7 @@
-clingo_uni_course_planner
+Clingo University Course Planner
 =========================
 
-simple course planner ready to be solved by clingo
+Simple course planner ready to be solved by clingo (clasp/gringo).
+
+rules.dl - contains the constraints for the planning problem.
+items.facts - contains example facts.
